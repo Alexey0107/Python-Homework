@@ -1,1 +1,2 @@
-# Python-Homework
+# Python-Homework - ЦК24. Python: от основ до машинного обучения
+Бахмутов А. В.
